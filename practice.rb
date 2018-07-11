@@ -18,3 +18,7 @@ def list_songs(artist_hash)
     puts songs
   end
 end
+
+def delete_artist(hash, artist)
+  hash.delete(artist)
+end
