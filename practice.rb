@@ -21,4 +21,5 @@ end
 
 def delete_artist(hash, artist)
   hash.delete(artist)
+  hash
 end
