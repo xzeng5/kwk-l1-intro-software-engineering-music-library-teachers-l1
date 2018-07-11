@@ -3,3 +3,7 @@ def list_artists(artist_hash)
     puts artists
   end
 end
+
+def list_songs(artist_hash)
+  
+end
