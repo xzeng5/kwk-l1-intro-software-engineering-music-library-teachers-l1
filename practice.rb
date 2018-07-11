@@ -9,3 +9,4 @@ def list_songs(artist_hash)
     puts songs
   end
 end
+
