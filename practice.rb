@@ -26,4 +26,5 @@ end
 
 def add_song_and_artist(x, y, z)
   x[y] = z
+  x
 end
