@@ -23,3 +23,7 @@ def delete_artist(hash, artist)
   hash.delete(artist)
   hash
 end
+
+def add_song_and_artist(x, y, z)
+  x[y] = z
+end
